@@ -1,0 +1,15 @@
+2020-10-09 19:02:25,048: INFO: root: ['Chandrika', 'Nandi', 'Python', 'selenium']
+2020-10-09 19:02:25,048: INFO: root: ['Chandrika', 'Nandi', 'Python', 'selenium']
+2020-10-09 19:02:25,048: WARNING: root: ['Chandrika', 'Nandi']
+2020-10-09 19:02:25,048: WARNING: root: ['Chandrika', 'Nandi']
+2020-10-09 19:10:45,894: INFO: test_dataloadfixture: ['Chandrika', 'Nandi', 'Python', 'selenium']
+2020-10-09 19:10:45,894: WARNING: test_dataloadfixture: ['Chandrika', 'Nandi']
+2020-10-09 19:13:03,491: INFO: test_dataloadfixture: ['Chandrika', 'Nandi', 'Python', 'selenium']
+2020-10-09 19:13:03,491: WARNING: test_dataloadfixture: ['Chandrika', 'Nandi']
+2020-10-09 19:13:03,507: WARNING: pytestProjects.test_logging: something is in warning mode
+2020-10-09 19:13:03,507: ERROR: pytestProjects.test_logging: Some Error Occur
+2020-10-09 19:13:03,507: CRITICAL: pytestProjects.test_logging: Critical issue
+2020-10-11 21:52:24,074: INFO: test_dataloadfixture: ['Chandrika', 'Nandi', 'Python', 'selenium']
+2020-10-11 21:52:24,105: WARNING: test_dataloadfixture: ['Chandrika', 'Nandi']
+2020-10-11 21:53:37,747: INFO: test_dataloadfixture: ['Chandrika', 'Nandi', 'Python', 'selenium']
+2020-10-11 21:53:37,747: WARNING: test_dataloadfixture: ['Chandrika', 'Nandi']
